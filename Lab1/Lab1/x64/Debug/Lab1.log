@@ -1,0 +1,8 @@
+﻿  Lab1.cpp
+c:\users\lado\google диск\c++\work\c++_other_projects\lab_op\lab1\lab1\lab1\lab1.cpp(64): warning C4101: num1: неиспользованная локальная переменная
+c:\users\lado\google диск\c++\work\c++_other_projects\lab_op\lab1\lab1\lab1\lab1.cpp(67): warning C4101: fnum: неиспользованная локальная переменная
+c:\users\lado\google диск\c++\work\c++_other_projects\lab_op\lab1\lab1\lab1\lab1.cpp(65): warning C4101: num2: неиспользованная локальная переменная
+c:\users\lado\google диск\c++\work\c++_other_projects\lab_op\lab1\lab1\lab1\lab1.cpp(66): warning C4101: num3: неиспользованная локальная переменная
+c:\users\lado\google диск\c++\work\c++_other_projects\lab_op\lab1\lab1\lab1\lab1.cpp(226): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab1.vcxproj -> C:\Users\Lado\Google Диск\c++\work\c++_other_projects\Lab_OP\Lab1\Lab1\x64\Debug\Lab1.exe
+  Lab1.vcxproj -> C:\Users\Lado\Google Диск\c++\work\c++_other_projects\Lab_OP\Lab1\Lab1\x64\Debug\Lab1.pdb (Full PDB)

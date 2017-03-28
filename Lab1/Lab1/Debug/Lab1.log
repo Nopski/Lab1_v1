@@ -1,0 +1,5 @@
+﻿  Lab1.cpp
+c:\users\lado\google диск\c++\work\c++_other_projects\lab_op\lab1\lab1\lab1\lab1.cpp(64): warning C4101: j: неиспользованная локальная переменная
+c:\users\lado\google диск\c++\work\c++_other_projects\lab_op\lab1\lab1\lab1\lab1.cpp(60): warning C4101: temp: неиспользованная локальная переменная
+c:\users\lado\google диск\c++\work\c++_other_projects\lab_op\lab1\lab1\lab1\lab1.cpp(135): warning C4101: d: неиспользованная локальная переменная
+c:\users\lado\google диск\c++\work\c++_other_projects\lab_op\lab1\lab1\lab1\lab1.cpp(89): error C4700: использована неинициализированная локальная переменная "k"
